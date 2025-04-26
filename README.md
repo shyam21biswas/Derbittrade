@@ -1,4 +1,4 @@
-# 🚀 Derbittrade
+# 🚀 Derbit trade
 
 Derbittrade is a high-performance order execution and management system for trading on **Deribit Testnet**, developed in **C++**. This project is designed to run exclusively on **Linux and Ubuntu** 🐧 and requires **cURL** 🌐 for HTTP requests. 
 
